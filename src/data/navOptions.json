@@ -1,0 +1,37 @@
+[
+  {
+    "navTitle": "Home",
+    "pathName": "/",
+    "iconName": "home"
+  },
+  {
+    "navTitle": "Practices",
+    "pathName": "/practices",
+    "iconName": "practices"
+  },
+  {
+    "navTitle": "Tickets",
+    "pathName": "/tickets",
+    "iconName": "tickets"
+  },
+  {
+    "navTitle": "Enrollments",
+    "pathName": "/enrollments",
+    "iconName": "enrollments"
+  },
+  {
+    "navTitle": "Notifications",
+    "pathName": "/notifications",
+    "iconName": "notifications"
+  },
+  {
+    "navTitle": "Settings",
+    "pathName": "/settings",
+    "iconName": "settings"
+  },
+  {
+    "navTitle": "Employees",
+    "pathName": "/employees",
+    "iconName": "employees"
+  }
+]

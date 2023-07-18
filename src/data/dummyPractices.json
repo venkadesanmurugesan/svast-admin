@@ -1,0 +1,23 @@
+[
+  {
+    "practice_name": "ABC Practice",
+    "onboarding_status": "DONE",
+    "open_tickets_count": 0,
+    "last_updated_by": "Karthikeyan",
+    "verification_status": "DONE"
+  },
+  {
+    "practice_name": "XYZ Practice",
+    "onboarding_status": "IN-PROGRESS",
+    "open_tickets_count": 3,
+    "last_updated_by": "Rajat",
+    "verification_status": "IN-PROGRESS"
+  },
+  {
+    "practice_name": "RSK Practice",
+    "onboarding_status": "REJECTED",
+    "open_tickets_count": 5,
+    "last_updated_by": "Sanyam",
+    "verification_status": "REJECTED"
+  }
+]

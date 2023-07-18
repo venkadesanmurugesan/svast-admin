@@ -1,0 +1,24 @@
+[
+  {
+    "ID": 1,
+    "practice": 1,
+    "provider": 0,
+    "ticket_type": "ONBOARDING",
+    "status": "INPROGRESS",
+    "last_updated_by": 0,
+    "created_by": 0,
+    "CreatedAt": "2023-07-04T18:40:48.605269+05:30",
+    "UpdatedAt": "2023-07-04T18:40:48.605269+05:30"
+  },
+  {
+    "ID": 2,
+    "practice": 2,
+    "provider": 0,
+    "ticket_type": "ONBOARDING",
+    "status": "INPROGRESS",
+    "last_updated_by": 0,
+    "created_by": 0,
+    "CreatedAt": "2023-07-05T12:08:02.765144+05:30",
+    "UpdatedAt": "2023-07-05T12:08:02.765144+05:30"
+  }
+]
